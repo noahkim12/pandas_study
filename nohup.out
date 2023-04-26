@@ -52,3 +52,7 @@
 [I 01:36:26.787 NotebookApp] Saving file at /pandas_study/pandas_02_3.ipynb
 [I 01:38:21.514 NotebookApp] Saving file at /pandas_study/pandas_02_3.ipynb
 [I 01:38:30.590 NotebookApp] Starting buffering for e847350f-82f9-4341-8c05-bd1bbe3a47bb:7a5fba13c3db402e92f53fdb66cdbd7f
+[I 01:44:37.311 NotebookApp] Starting buffering for 592529f3-49d2-4240-801c-8317ba6a29af:27f1f310989d4e129b320aa27fa24219
+[I 01:44:39.523 NotebookApp] Starting buffering for da51f0d3-95a4-4cbd-9b5f-4c065f98d6ba:e3035fd4780045908241707d6af11874
+[I 01:44:48.131 NotebookApp] Copying pandas_study/pandas_02_3.ipynb to /pandas_study
+[W 01:44:48.133 NotebookApp] Notebook pandas_study/pandas_02_3.ipynb is not trusted
