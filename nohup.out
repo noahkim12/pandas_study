@@ -56,3 +56,10 @@
 [I 01:44:39.523 NotebookApp] Starting buffering for da51f0d3-95a4-4cbd-9b5f-4c065f98d6ba:e3035fd4780045908241707d6af11874
 [I 01:44:48.131 NotebookApp] Copying pandas_study/pandas_02_3.ipynb to /pandas_study
 [W 01:44:48.133 NotebookApp] Notebook pandas_study/pandas_02_3.ipynb is not trusted
+[I 01:48:36.216 NotebookApp] Kernel started: 1351bd4e-b932-41cf-b1f7-f6b500d6acf4, name: python3
+[I 01:50:36.230 NotebookApp] Saving file at /pandas_study/pandas_02_4.ipynb
+[I 01:52:36.213 NotebookApp] Saving file at /pandas_study/pandas_02_4.ipynb
+[I 01:54:36.231 NotebookApp] Saving file at /pandas_study/pandas_02_4.ipynb
+[I 01:56:36.216 NotebookApp] Saving file at /pandas_study/pandas_02_4.ipynb
+[I 01:58:36.243 NotebookApp] Saving file at /pandas_study/pandas_02_4.ipynb
+[I 01:59:27.893 NotebookApp] Saving file at /pandas_study/pandas_02_4.ipynb
