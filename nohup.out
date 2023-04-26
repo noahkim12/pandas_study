@@ -1,0 +1,35 @@
+[W 2023-04-26 00:57:47.575 LabApp] 'allow_root' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2023-04-26 00:57:47.575 LabApp] 'ip' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2023-04-26 00:57:47.575 LabApp] 'notebook_dir' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2023-04-26 00:57:47.575 LabApp] 'password' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2023-04-26 00:57:47.575 LabApp] 'password' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[I 2023-04-26 00:57:47.583 LabApp] JupyterLab extension loaded from /home/ubuntu/anaconda3/lib/python3.9/site-packages/jupyterlab
+[I 2023-04-26 00:57:47.583 LabApp] JupyterLab application directory is /home/ubuntu/anaconda3/share/jupyter/lab
+[I 00:57:47.589 NotebookApp] Serving notebooks from local directory: /home/ubuntu
+[I 00:57:47.589 NotebookApp] Jupyter Notebook 6.4.12 is running at:
+[I 00:57:47.589 NotebookApp] http://ip-172-31-9-54:8888/
+[I 00:57:47.589 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 00:57:47.594 NotebookApp] No web browser found: could not locate runnable browser.
+[I 00:57:54.437 NotebookApp] 302 GET / (61.35.16.194) 0.860000ms
+[I 00:57:59.852 NotebookApp] 302 GET / (61.35.16.194) 0.510000ms
+[I 00:58:04.968 NotebookApp] 302 GET / (61.35.16.194) 0.520000ms
+[I 00:58:04.979 NotebookApp] 302 GET /tree? (61.35.16.194) 0.570000ms
+[I 00:58:05.155 NotebookApp] 302 GET / (61.35.16.194) 0.520000ms
+[I 00:58:05.165 NotebookApp] 302 GET /tree? (61.35.16.194) 0.500000ms
+[I 00:58:07.182 NotebookApp] 302 POST /login?next=%2Ftree%3F (61.35.16.194) 74.970000ms
+[I 01:05:26.813 NotebookApp] Creating new notebook in /pandas_study
+[I 01:05:29.172 NotebookApp] Kernel started: e847350f-82f9-4341-8c05-bd1bbe3a47bb, name: python3
+[I 01:07:29.152 NotebookApp] Saving file at /pandas_study/pandas_02_03.ipynb
+/home/ubuntu/anaconda3/lib/python3.9/site-packages/nbformat/__init__.py:128: MissingIDFieldWarning: Code cell is missing an id field, this will become a hard error in future nbformat versions. You may want to use `normalize()` on your notebooks before validations (available since nbformat 5.1.4). Previous versions of nbformat are fixing this issue transparently, and will stop doing so in the future.
+  validate(nb)
+/home/ubuntu/anaconda3/lib/python3.9/site-packages/notebook/services/contents/manager.py:353: MissingIDFieldWarning: Code cell is missing an id field, this will become a hard error in future nbformat versions. You may want to use `normalize()` on your notebooks before validations (available since nbformat 5.1.4). Previous versions of nbformat are fixing this issue transparently, and will stop doing so in the future.
+  validate_nb(model['content'])
+[I 01:08:06.404 NotebookApp] Saving file at /pandas_study/pandas_02_3.ipynb
+[I 01:08:08.137 NotebookApp] Starting buffering for e847350f-82f9-4341-8c05-bd1bbe3a47bb:5234f0672f3c4f478f053f0ec3cb8c7e
+[W 01:08:12.693 NotebookApp] Notebook pandas_study/pandas_02_02.ipynb is not trusted
+[I 01:08:13.198 NotebookApp] Kernel started: 592529f3-49d2-4240-801c-8317ba6a29af, name: python3
+[I 01:08:20.385 NotebookApp] Kernel started: da51f0d3-95a4-4cbd-9b5f-4c065f98d6ba, name: python3
+[I 01:08:29.122 NotebookApp] Saving file at /pandas_study/pandas_02_1.ipynb
+[I 01:08:30.117 NotebookApp] Starting buffering for da51f0d3-95a4-4cbd-9b5f-4c065f98d6ba:7a1c8cc3a530438d8e2681d49086e0df
+[I 01:08:34.648 NotebookApp] Saving file at /pandas_study/pandas_02_2.ipynb
+[I 01:08:35.223 NotebookApp] Starting buffering for 592529f3-49d2-4240-801c-8317ba6a29af:19d28260735a4e56816acc2bffe3b18e
