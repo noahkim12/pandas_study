@@ -129,3 +129,118 @@
 [I 02:17:22.567 NotebookApp] Copying pandas_study/pandas_02_4.ipynb to /pandas_study
 [W 02:17:22.568 NotebookApp] Notebook pandas_study/pandas_02_4.ipynb is not trusted
 [W 02:17:22.569 NotebookApp] Notebook pandas_study/pandas_02_4-Copy1.ipynb is not trusted
+[I 03:19:53.505 NotebookApp] 302 GET / (184.105.247.251) 0.530000ms
+[I 03:20:17.889 NotebookApp] 302 GET / (184.105.247.254) 0.520000ms
+[I 03:20:18.029 NotebookApp] 302 GET /tree? (184.105.247.254) 0.660000ms
+[W 03:20:48.607 NotebookApp] 404 GET http://api.ipify.org/?format=json (184.105.247.251) 1.400000ms referer=None
+[W 03:21:11.138 NotebookApp] 405 CONNECT www.shadowserver.org:443 (184.105.247.235) 1.410000ms referer=None
+[I 04:49:29.450 NotebookApp] 302 GET / (162.243.148.26) 0.520000ms
+[I 06:36:26.905 NotebookApp] 302 GET / (205.210.31.28) 0.610000ms
+[W 10:05:52.416 NotebookApp] 404 GET /aaa9 (170.64.166.144) 1.280000ms referer=None
+[W 10:05:52.881 NotebookApp] 404 GET /aab8 (170.64.166.144) 1.270000ms referer=None
+[I 10:05:53.357 NotebookApp] 302 GET / (170.64.166.144) 0.510000ms
+[I 10:11:28.602 NotebookApp] 302 GET / (209.38.226.8) 0.500000ms
+[I 11:51:56.355 NotebookApp] 302 GET / (61.36.170.194) 0.470000ms
+[W 11:53:09.154 NotebookApp] Notebook pandas_study/pandas_03_1.ipynb is not trusted
+[I 11:53:09.612 NotebookApp] Kernel started: 196a6945-9056-4574-bfd1-6fdd933bd4b0, name: python3
+[I 11:55:09.655 NotebookApp] Saving file at /pandas_study/pandas_03_1.ipynb
+[W 11:55:09.656 NotebookApp] Notebook pandas_study/pandas_03_1.ipynb is not trusted
+[I 11:57:09.634 NotebookApp] Saving file at /pandas_study/pandas_03_1.ipynb
+[W 11:57:09.634 NotebookApp] Notebook pandas_study/pandas_03_1.ipynb is not trusted
+[I 11:59:09.644 NotebookApp] Saving file at /pandas_study/pandas_03_1.ipynb
+[W 11:59:09.644 NotebookApp] Notebook pandas_study/pandas_03_1.ipynb is not trusted
+[I 12:01:09.652 NotebookApp] Saving file at /pandas_study/pandas_03_1.ipynb
+[W 12:01:09.653 NotebookApp] Notebook pandas_study/pandas_03_1.ipynb is not trusted
+[I 12:03:09.654 NotebookApp] Saving file at /pandas_study/pandas_03_1.ipynb
+[W 12:03:09.655 NotebookApp] Notebook pandas_study/pandas_03_1.ipynb is not trusted
+[I 12:05:09.648 NotebookApp] Saving file at /pandas_study/pandas_03_1.ipynb
+[W 12:05:09.649 NotebookApp] Notebook pandas_study/pandas_03_1.ipynb is not trusted
+[I 12:07:09.693 NotebookApp] Saving file at /pandas_study/pandas_03_1.ipynb
+[I 12:22:55.986 NotebookApp] 302 GET / (61.36.170.194) 0.500000ms
+[I 12:23:06.851 NotebookApp] 302 GET / (61.36.170.194) 0.540000ms
+[I 12:23:25.783 NotebookApp] Creating new notebook in /machine_leanring
+[I 12:23:27.369 NotebookApp] Kernel started: 10e753db-8135-4f37-8208-0419981b0d11, name: python3
+[I 12:23:55.672 NotebookApp] Saving file at /machine_leanring/linear_regression.ipynb
+[I 12:35:27.392 NotebookApp] Saving file at /machine_leanring/linear_regression.ipynb
+[I 12:37:27.362 NotebookApp] Saving file at /machine_leanring/linear_regression.ipynb
+[I 12:41:27.414 NotebookApp] Saving file at /machine_leanring/linear_regression.ipynb
+[I 12:43:27.369 NotebookApp] Saving file at /machine_leanring/linear_regression.ipynb
+[I 12:45:27.406 NotebookApp] Saving file at /machine_leanring/linear_regression.ipynb
+[I 12:49:27.411 NotebookApp] Saving file at /machine_leanring/linear_regression.ipynb
+[I 12:53:27.411 NotebookApp] Saving file at /machine_leanring/linear_regression.ipynb
+[I 12:54:01.145 NotebookApp] Saving file at /machine_leanring/linear_regression.ipynb
+[I 12:55:55.980 NotebookApp] Saving file at /pandas_study/pandas_03_1.ipynb
+[I 12:56:00.881 NotebookApp] Starting buffering for 196a6945-9056-4574-bfd1-6fdd933bd4b0:13db207cef45441eaedb6c4ec4dc3414
+[I 14:27:27.657 NotebookApp] Saving file at /machine_leanring/linear_regression.ipynb
+[I 14:29:28.507 NotebookApp] Saving file at /machine_leanring/linear_regression.ipynb
+[I 14:45:39.035 NotebookApp] Saving file at /machine_leanring/linear_regression.ipynb
+[I 14:45:41.595 NotebookApp] Starting buffering for 10e753db-8135-4f37-8208-0419981b0d11:667a9a6151544ee8920a48e9d0661d9e
+[W 14:46:13.475 NotebookApp] Notebook pandas_study/pandas_03_1.ipynb is not trusted
+[I 14:46:42.546 NotebookApp] Saving file at /pandas_study/pandas_03_1.ipynb
+[I 14:46:45.918 NotebookApp] Saving file at /pandas_study/pandas_03_1.ipynb
+[I 14:46:48.242 NotebookApp] Starting buffering for 196a6945-9056-4574-bfd1-6fdd933bd4b0:37978f532d274df498e30936ba4dd9bf
+[C 14:47:23.251 NotebookApp] received signal 15, stopping
+[I 14:47:23.251 NotebookApp] Shutting down 6 kernels
+[I 14:47:23.253 NotebookApp] Kernel shutdown: 592529f3-49d2-4240-801c-8317ba6a29af
+[I 14:47:23.367 NotebookApp] Kernel shutdown: 196a6945-9056-4574-bfd1-6fdd933bd4b0
+[I 14:47:23.372 NotebookApp] KernelRestarter: restarting kernel (1/5), keep random ports
+[I 14:47:23.417 NotebookApp] Kernel shutdown: 10e753db-8135-4f37-8208-0419981b0d11
+[I 14:47:23.431 NotebookApp] Kernel shutdown: da51f0d3-95a4-4cbd-9b5f-4c065f98d6ba
+Fatal Python error: init_import_site: Failed to import the site module
+Python runtime state: initialized
+Traceback (most recent call last):
+  File "/home/ubuntu/anaconda3/lib/python3.9/site.py", line 589, in <module>
+    main()
+  File "/home/ubuntu/anaconda3/lib/python3.9/site.py", line 576, in main
+    known_paths = addsitepackages(known_paths)
+  File "/home/ubuntu/anaconda3/lib/python3.9/site.py", line 359, in addsitepackages
+    addsitedir(sitedir, known_paths)
+  File "/home/ubuntu/anaconda3/lib/python3.9/site.py", line 208, in addsitedir
+    addpackage(sitedir, name, known_paths)
+  File "/home/ubuntu/anaconda3/lib/python3.9/site.py", line 169, in addpackage
+    exec(line)
+  File "<string>", line 1, in <module>
+  File "<frozen importlib._bootstrap>", line 1007, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 982, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 925, in _find_spec
+  File "<frozen importlib._bootstrap_external>", line 1423, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 1395, in _get_spec
+  File "<frozen importlib._bootstrap_external>", line 1526, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 1577, in _fill_cache
+KeyboardInterrupt
+[I 14:47:23.544 NotebookApp] Kernel shutdown: e847350f-82f9-4341-8c05-bd1bbe3a47bb
+[I 14:47:23.558 NotebookApp] Kernel shutdown: 1351bd4e-b932-41cf-b1f7-f6b500d6acf4
+[I 14:47:23.575 NotebookApp] Shutting down 0 terminals
+[W 2023-04-28 01:05:45.859 LabApp] 'allow_root' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2023-04-28 01:05:45.860 LabApp] 'ip' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2023-04-28 01:05:45.860 LabApp] 'notebook_dir' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2023-04-28 01:05:45.860 LabApp] 'password' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2023-04-28 01:05:45.860 LabApp] 'password' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[I 2023-04-28 01:05:45.869 LabApp] JupyterLab extension loaded from /home/ubuntu/anaconda3/lib/python3.9/site-packages/jupyterlab
+[I 2023-04-28 01:05:45.869 LabApp] JupyterLab application directory is /home/ubuntu/anaconda3/share/jupyter/lab
+[I 01:05:45.874 NotebookApp] Serving notebooks from local directory: /home/ubuntu
+[I 01:05:45.874 NotebookApp] Jupyter Notebook 6.4.12 is running at:
+[I 01:05:45.874 NotebookApp] http://ip-172-31-9-54:8888/
+[I 01:05:45.875 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 01:05:45.880 NotebookApp] No web browser found: could not locate runnable browser.
+[I 01:05:53.442 NotebookApp] 302 GET / (61.35.16.194) 0.750000ms
+[I 01:05:59.377 NotebookApp] Kernel started: b3615f32-12dc-4b6e-b964-f62c177b8825, name: python3
+[I 01:07:59.369 NotebookApp] Saving file at /pandas_study/pandas_03_1.ipynb
+/home/ubuntu/anaconda3/lib/python3.9/site-packages/nbformat/__init__.py:128: MissingIDFieldWarning: Code cell is missing an id field, this will become a hard error in future nbformat versions. You may want to use `normalize()` on your notebooks before validations (available since nbformat 5.1.4). Previous versions of nbformat are fixing this issue transparently, and will stop doing so in the future.
+  validate(nb)
+/home/ubuntu/anaconda3/lib/python3.9/site-packages/notebook/services/contents/manager.py:353: MissingIDFieldWarning: Code cell is missing an id field, this will become a hard error in future nbformat versions. You may want to use `normalize()` on your notebooks before validations (available since nbformat 5.1.4). Previous versions of nbformat are fixing this issue transparently, and will stop doing so in the future.
+  validate_nb(model['content'])
+[I 01:09:59.377 NotebookApp] Saving file at /pandas_study/pandas_03_1.ipynb
+[I 01:11:59.364 NotebookApp] Saving file at /pandas_study/pandas_03_1.ipynb
+[I 01:13:59.365 NotebookApp] Saving file at /pandas_study/pandas_03_1.ipynb
+[I 01:15:59.386 NotebookApp] Saving file at /pandas_study/pandas_03_1.ipynb
+[I 01:19:59.362 NotebookApp] Saving file at /pandas_study/pandas_03_1.ipynb
+[I 01:31:59.402 NotebookApp] Saving file at /pandas_study/pandas_03_1.ipynb
+[I 01:33:59.400 NotebookApp] Saving file at /pandas_study/pandas_03_1.ipynb
+[I 01:35:59.399 NotebookApp] Saving file at /pandas_study/pandas_03_1.ipynb
+[I 01:37:59.405 NotebookApp] Saving file at /pandas_study/pandas_03_1.ipynb
+[I 01:39:59.396 NotebookApp] Saving file at /pandas_study/pandas_03_1.ipynb
+[I 01:41:59.409 NotebookApp] Saving file at /pandas_study/pandas_03_1.ipynb
+[I 01:43:59.391 NotebookApp] Saving file at /pandas_study/pandas_03_1.ipynb
+[I 01:45:59.408 NotebookApp] Saving file at /pandas_study/pandas_03_1.ipynb
+[I 01:47:14.799 NotebookApp] Saving file at /pandas_study/pandas_03_1.ipynb
