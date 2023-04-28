@@ -292,3 +292,195 @@ KeyboardInterrupt
 [I 02:18:54.142 NotebookApp] Kernel started: 14a4853a-dbcf-4def-8751-709b7ab5c7bf, name: python3
 [I 02:20:40.316 NotebookApp] Saving file at /pandas_study/pandas_03_2.ipynb
 [I 02:20:42.399 NotebookApp] Starting buffering for 14a4853a-dbcf-4def-8751-709b7ab5c7bf:2705c243d0df41e68c492d630c1b9ff3
+[I 02:23:51.971 NotebookApp] Starting buffering for 14a4853a-dbcf-4def-8751-709b7ab5c7bf:6b2a970ff5f547ffa89b345da7f9065b
+[I 02:33:26.446 NotebookApp] Saving file at /pandas_study/pandas_03_1.ipynb
+[I 02:33:54.470 NotebookApp] Saving file at /pandas_study/pandas_03_1.ipynb
+[I 02:35:54.488 NotebookApp] Saving file at /pandas_study/pandas_03_1.ipynb
+[I 02:37:54.494 NotebookApp] Saving file at /pandas_study/pandas_03_1.ipynb
+[I 02:39:10.099 NotebookApp] Saving file at /pandas_study/pandas_03_1.ipynb
+[I 02:39:10.883 NotebookApp] Starting buffering for b3615f32-12dc-4b6e-b964-f62c177b8825:16ccbaef7b4749f49e1a2511cae3970e
+[I 02:41:13.751 NotebookApp] Saving file at /pandas_study/pandas_03_2.ipynb
+[I 02:43:13.726 NotebookApp] Saving file at /pandas_study/pandas_03_2.ipynb
+[I 02:45:13.730 NotebookApp] Saving file at /pandas_study/pandas_03_2.ipynb
+[I 02:47:13.742 NotebookApp] Saving file at /pandas_study/pandas_03_2.ipynb
+[I 02:49:13.741 NotebookApp] Saving file at /pandas_study/pandas_03_2.ipynb
+[I 02:51:13.727 NotebookApp] Saving file at /pandas_study/pandas_03_2.ipynb
+[I 02:53:13.728 NotebookApp] Saving file at /pandas_study/pandas_03_2.ipynb
+[I 02:55:13.725 NotebookApp] Saving file at /pandas_study/pandas_03_2.ipynb
+[I 02:57:13.751 NotebookApp] Saving file at /pandas_study/pandas_03_2.ipynb
+[I 02:59:13.758 NotebookApp] Saving file at /pandas_study/pandas_03_2.ipynb
+[I 03:13:13.752 NotebookApp] Saving file at /pandas_study/pandas_03_2.ipynb
+[I 03:15:13.769 NotebookApp] Saving file at /pandas_study/pandas_03_2.ipynb
+[W 03:18:14.876 NotebookApp] Notebook pandas_study/pandas_02_1.ipynb is not trusted
+[I 03:18:27.481 NotebookApp] Starting buffering for 25ff12b6-c641-41ca-8ad4-3072237f7b34:e617cd9209c142379b6ac0ff413d7c57
+[I 03:19:13.748 NotebookApp] Saving file at /pandas_study/pandas_03_2.ipynb
+[I 03:21:13.771 NotebookApp] Saving file at /pandas_study/pandas_03_2.ipynb
+[I 03:23:13.772 NotebookApp] Saving file at /pandas_study/pandas_03_2.ipynb
+[I 03:29:13.765 NotebookApp] Saving file at /pandas_study/pandas_03_2.ipynb
+[I 03:31:13.781 NotebookApp] Saving file at /pandas_study/pandas_03_2.ipynb
+[I 03:33:13.771 NotebookApp] Saving file at /pandas_study/pandas_03_2.ipynb
+[I 03:35:13.770 NotebookApp] Saving file at /pandas_study/pandas_03_2.ipynb
+[I 03:37:13.791 NotebookApp] Saving file at /pandas_study/pandas_03_2.ipynb
+[I 03:39:46.488 NotebookApp] 302 GET / (162.216.150.208) 0.540000ms
+[I 03:39:46.872 NotebookApp] 302 GET /tree? (162.216.150.208) 0.680000ms
+[I 03:41:13.788 NotebookApp] Saving file at /pandas_study/pandas_03_2.ipynb
+[I 03:43:00.339 NotebookApp] Starting buffering for b3615f32-12dc-4b6e-b964-f62c177b8825:d32729d165d6483c982fecafc6bcecb8
+[I 03:43:09.594 NotebookApp] Starting buffering for b3615f32-12dc-4b6e-b964-f62c177b8825:f901e7e1b7104e0985e09865c3c09a2a
+[W 03:43:13.654 NotebookApp] Notebook pandas_study/pandas_02_1.ipynb is not trusted
+[I 03:43:14.661 NotebookApp] Saving file at /pandas_study/pandas_03_2.ipynb
+[I 03:43:20.163 NotebookApp] Starting buffering for 25ff12b6-c641-41ca-8ad4-3072237f7b34:3281b6d8cd924d219ffba5c13d33170a
+[I 03:45:13.799 NotebookApp] Saving file at /pandas_study/pandas_03_2.ipynb
+[I 03:47:14.665 NotebookApp] Saving file at /pandas_study/pandas_03_2.ipynb
+[I 03:47:27.271 NotebookApp] Starting buffering for 435583f6-c41a-43dd-adc4-1fe710f451ac:309449f2f70f48769902e24cf0f48dc7
+[I 03:47:27.766 NotebookApp] Starting buffering for d7046eed-c249-4dbb-a3bc-fb0181871b33:03d617449d9f49618f3626fd2797fb54
+[W 03:47:29.701 NotebookApp] Notebook pandas_study/pandas_02_4.ipynb is not trusted
+[I 03:47:33.219 NotebookApp] Starting buffering for 555c6ac9-1d0e-4946-b147-625f173edd46:0591463c459e4b808b5f9dc41428a890
+[W 03:47:35.054 NotebookApp] Notebook pandas_study/pandas_02_1.ipynb is not trusted
+[I 03:47:39.564 NotebookApp] Starting buffering for 25ff12b6-c641-41ca-8ad4-3072237f7b34:1940605c98ef4eea9c7d8f1997cbdba4
+[I 03:49:13.780 NotebookApp] Saving file at /pandas_study/pandas_03_2.ipynb
+[I 03:50:01.087 NotebookApp] Saving file at /pandas_study/pandas_03_2.ipynb
+[I 03:50:14.899 NotebookApp] Starting buffering for 14a4853a-dbcf-4def-8751-709b7ab5c7bf:32ba3cc71fb14fae85d4e5b1179db339
+[I 03:50:31.285 NotebookApp] Copying pandas_study/pandas_03_2.ipynb to /pandas_study
+[W 03:50:31.287 NotebookApp] Notebook pandas_study/pandas_03_2.ipynb is not trusted
+[I 03:50:51.784 NotebookApp] Kernel started: 0d751abd-10c3-4497-bd37-78360c7f9a7c, name: python3
+[I 03:52:51.804 NotebookApp] Saving file at /pandas_study/pandas_03_3.ipynb
+[I 03:54:51.796 NotebookApp] Saving file at /pandas_study/pandas_03_3.ipynb
+[I 03:56:52.682 NotebookApp] Saving file at /pandas_study/pandas_03_3.ipynb
+[W 03:57:43.091 NotebookApp] Notebook pandas_study/pandas_02_1.ipynb is not trusted
+[I 03:57:51.528 NotebookApp] Starting buffering for 25ff12b6-c641-41ca-8ad4-3072237f7b34:73180d7dbb2e48d0981c83768f9ea958
+[I 03:57:56.650 NotebookApp] Starting buffering for 14a4853a-dbcf-4def-8751-709b7ab5c7bf:f9f0d9e691844bc88437cf95cdbc8fee
+[W 03:58:09.984 NotebookApp] Notebook pandas_study/pandas_02_4.ipynb is not trusted
+[I 03:58:17.768 NotebookApp] Starting buffering for 555c6ac9-1d0e-4946-b147-625f173edd46:43122b7205454f4b81b0ee427123d245
+[I 03:58:34.887 NotebookApp] Saving file at /pandas_study/pandas_03_1.ipynb
+[I 03:58:51.789 NotebookApp] Saving file at /pandas_study/pandas_03_3.ipynb
+[I 03:59:55.313 NotebookApp] 302 GET / (198.235.24.12) 0.630000ms
+[I 03:59:59.682 NotebookApp] Saving file at /pandas_study/pandas_03_1.ipynb
+[I 04:00:51.798 NotebookApp] Saving file at /pandas_study/pandas_03_3.ipynb
+[I 04:02:51.790 NotebookApp] Saving file at /pandas_study/pandas_03_3.ipynb
+[I 04:04:51.806 NotebookApp] Saving file at /pandas_study/pandas_03_3.ipynb
+[I 04:07:25.686 NotebookApp] Saving file at /pandas_study/pandas_03_3.ipynb
+[I 04:34:25.431 NotebookApp] 302 GET / (205.210.31.164) 0.640000ms
+[I 04:48:37.437 NotebookApp] 302 GET / (192.241.208.135) 0.590000ms
+[I 05:08:52.757 NotebookApp] Saving file at /pandas_study/pandas_03_3.ipynb
+[I 05:16:51.883 NotebookApp] Saving file at /pandas_study/pandas_03_3.ipynb
+[I 05:18:51.876 NotebookApp] Saving file at /pandas_study/pandas_03_3.ipynb
+[I 05:20:51.862 NotebookApp] Saving file at /pandas_study/pandas_03_3.ipynb
+[I 05:22:51.880 NotebookApp] Saving file at /pandas_study/pandas_03_3.ipynb
+[I 05:24:51.869 NotebookApp] Saving file at /pandas_study/pandas_03_3.ipynb
+[I 05:26:51.860 NotebookApp] Saving file at /pandas_study/pandas_03_3.ipynb
+[I 05:28:51.866 NotebookApp] Saving file at /pandas_study/pandas_03_3.ipynb
+[I 05:30:51.865 NotebookApp] Saving file at /pandas_study/pandas_03_3.ipynb
+[I 05:32:51.869 NotebookApp] Saving file at /pandas_study/pandas_03_3.ipynb
+[I 05:40:51.883 NotebookApp] Saving file at /pandas_study/pandas_03_3.ipynb
+[I 05:42:51.886 NotebookApp] Saving file at /pandas_study/pandas_03_3.ipynb
+[I 05:44:51.894 NotebookApp] Saving file at /pandas_study/pandas_03_3.ipynb
+[I 05:46:52.766 NotebookApp] Saving file at /pandas_study/pandas_03_3.ipynb
+[I 06:02:51.895 NotebookApp] Saving file at /pandas_study/pandas_03_3.ipynb
+[I 06:04:51.900 NotebookApp] Saving file at /pandas_study/pandas_03_3.ipynb
+[I 06:06:51.902 NotebookApp] Saving file at /pandas_study/pandas_03_3.ipynb
+[I 06:08:51.908 NotebookApp] Saving file at /pandas_study/pandas_03_3.ipynb
+[I 06:10:51.905 NotebookApp] Saving file at /pandas_study/pandas_03_3.ipynb
+[I 06:12:51.902 NotebookApp] Saving file at /pandas_study/pandas_03_3.ipynb
+[I 06:14:51.900 NotebookApp] Saving file at /pandas_study/pandas_03_3.ipynb
+[I 06:50:51.965 NotebookApp] Saving file at /pandas_study/pandas_03_3.ipynb
+[I 06:54:51.952 NotebookApp] Saving file at /pandas_study/pandas_03_3.ipynb
+[I 06:56:51.968 NotebookApp] Saving file at /pandas_study/pandas_03_3.ipynb
+[I 06:58:51.962 NotebookApp] Saving file at /pandas_study/pandas_03_3.ipynb
+[I 07:00:51.949 NotebookApp] Saving file at /pandas_study/pandas_03_3.ipynb
+[I 07:02:44.753 NotebookApp] Saving file at /pandas_study/pandas_03_3.ipynb
+[I 07:02:51.895 NotebookApp] Starting buffering for 0d751abd-10c3-4497-bd37-78360c7f9a7c:29612b40207f46248daae151de0ec236
+[I 07:02:54.356 NotebookApp] Starting buffering for b3615f32-12dc-4b6e-b964-f62c177b8825:819a27cba02847ce94ae9973744a4dfd
+[I 07:04:16.927 NotebookApp] Creating new notebook in /pandas_study
+[I 07:04:17.826 NotebookApp] Kernel started: 634a51c2-edb8-48bc-ae23-00643943acf8, name: python3
+[I 07:04:21.484 NotebookApp] Starting buffering for 634a51c2-edb8-48bc-ae23-00643943acf8:468df8c4181f4f2c8b991423bcfa936e
+[W 07:04:39.450 NotebookApp] Notebook pandas_study/pandas_03_3.ipynb is not trusted
+[I 07:04:40.647 NotebookApp] Starting buffering for 0d751abd-10c3-4497-bd37-78360c7f9a7c:32a9290c4823480ba7acda451b074865
+[I 07:04:44.295 NotebookApp] Kernel shutdown: 634a51c2-edb8-48bc-ae23-00643943acf8
+[W 07:04:44.296 NotebookApp] delete /pandas_study/Untitled.ipynb
+[I 07:04:48.132 NotebookApp] Copying pandas_study/pandas_03_3.ipynb to /pandas_study
+[W 07:04:48.135 NotebookApp] Notebook pandas_study/pandas_03_3.ipynb is not trusted
+[I 07:06:45.467 NotebookApp] Kernel started: a10fecc7-f19c-4661-850b-51a85b52b54a, name: python3
+[I 07:08:45.482 NotebookApp] Saving file at /pandas_study/pandas_03_4.ipynb
+[I 07:10:45.458 NotebookApp] Saving file at /pandas_study/pandas_03_4.ipynb
+[I 07:12:45.870 NotebookApp] Saving file at /pandas_study/pandas_03_4.ipynb
+[I 07:14:45.469 NotebookApp] Saving file at /pandas_study/pandas_03_4.ipynb
+[I 07:18:45.474 NotebookApp] Saving file at /pandas_study/pandas_03_4.ipynb
+[I 07:20:45.477 NotebookApp] Saving file at /pandas_study/pandas_03_4.ipynb
+[I 07:22:45.474 NotebookApp] Saving file at /pandas_study/pandas_03_4.ipynb
+[W 07:22:49.216 NotebookApp] 404 GET /druid/index.html (107.170.231.5) 7.840000ms referer=None
+[I 07:26:45.485 NotebookApp] Saving file at /pandas_study/pandas_03_4.ipynb
+[I 07:30:45.498 NotebookApp] Saving file at /pandas_study/pandas_03_4.ipynb
+[I 07:32:45.481 NotebookApp] Saving file at /pandas_study/pandas_03_4.ipynb
+[I 07:34:45.495 NotebookApp] Saving file at /pandas_study/pandas_03_4.ipynb
+[I 07:36:45.499 NotebookApp] Saving file at /pandas_study/pandas_03_4.ipynb
+[I 07:38:45.499 NotebookApp] Saving file at /pandas_study/pandas_03_4.ipynb
+[I 07:40:45.485 NotebookApp] Saving file at /pandas_study/pandas_03_4.ipynb
+[I 07:42:45.507 NotebookApp] Saving file at /pandas_study/pandas_03_4.ipynb
+[I 07:44:45.525 NotebookApp] Saving file at /pandas_study/pandas_03_4.ipynb
+[I 07:46:45.496 NotebookApp] Saving file at /pandas_study/pandas_03_4.ipynb
+[I 07:48:45.496 NotebookApp] Saving file at /pandas_study/pandas_03_4.ipynb
+[I 07:50:45.885 NotebookApp] Saving file at /pandas_study/pandas_03_4.ipynb
+[I 07:52:45.510 NotebookApp] Saving file at /pandas_study/pandas_03_4.ipynb
+[I 07:52:49.890 NotebookApp] Saving file at /pandas_study/pandas_03_3.ipynb
+[I 07:54:45.507 NotebookApp] Saving file at /pandas_study/pandas_03_4.ipynb
+[I 07:56:45.517 NotebookApp] Saving file at /pandas_study/pandas_03_4.ipynb
+[I 07:58:45.895 NotebookApp] Saving file at /pandas_study/pandas_03_4.ipynb
+[I 08:08:45.524 NotebookApp] Saving file at /pandas_study/pandas_03_4.ipynb
+[I 08:16:45.535 NotebookApp] Saving file at /pandas_study/pandas_03_4.ipynb
+[I 08:18:45.522 NotebookApp] Saving file at /pandas_study/pandas_03_4.ipynb
+[I 08:20:45.535 NotebookApp] Saving file at /pandas_study/pandas_03_4.ipynb
+[I 08:24:45.531 NotebookApp] Saving file at /pandas_study/pandas_03_4.ipynb
+[I 08:26:45.539 NotebookApp] Saving file at /pandas_study/pandas_03_4.ipynb
+[I 08:28:45.528 NotebookApp] Saving file at /pandas_study/pandas_03_4.ipynb
+[I 08:30:40.858 NotebookApp] Saving file at /pandas_study/pandas_03_4.ipynb
+[I 08:31:55.286 NotebookApp] Saving file at /pandas_study/pandas_03_4.ipynb
+[I 08:31:56.655 NotebookApp] Saving file at /pandas_study/pandas_03_4.ipynb
+[I 08:31:58.497 NotebookApp] Starting buffering for a10fecc7-f19c-4661-850b-51a85b52b54a:8c3daed2f923474084e24ec10ed7b172
+[I 08:32:01.990 NotebookApp] Saving file at /pandas_study/pandas_03_3.ipynb
+[I 08:32:02.894 NotebookApp] Starting buffering for 0d751abd-10c3-4497-bd37-78360c7f9a7c:c17af80d91cd45e4860ab64fafe1a61a
+[I 08:40:32.752 NotebookApp] Copying pandas_study/pandas_03_4.ipynb to /pandas_study
+[W 08:40:32.754 NotebookApp] Notebook pandas_study/pandas_03_4.ipynb is not trusted
+[I 08:40:47.899 NotebookApp] Kernel started: b4887587-81b3-4768-b038-ef31a819bba7, name: python3
+[I 08:42:47.914 NotebookApp] Saving file at /pandas_study/pandas_03_5.ipynb
+[I 08:44:47.899 NotebookApp] Saving file at /pandas_study/pandas_03_5.ipynb
+[I 08:46:47.897 NotebookApp] Saving file at /pandas_study/pandas_03_5.ipynb
+[I 08:48:47.909 NotebookApp] Saving file at /pandas_study/pandas_03_5.ipynb
+[I 08:50:47.905 NotebookApp] Saving file at /pandas_study/pandas_03_5.ipynb
+[I 08:52:47.918 NotebookApp] Saving file at /pandas_study/pandas_03_5.ipynb
+[I 08:54:47.928 NotebookApp] Saving file at /pandas_study/pandas_03_5.ipynb
+[I 08:56:47.907 NotebookApp] Saving file at /pandas_study/pandas_03_5.ipynb
+[I 08:58:47.919 NotebookApp] Saving file at /pandas_study/pandas_03_5.ipynb
+[I 09:00:47.909 NotebookApp] Saving file at /pandas_study/pandas_03_5.ipynb
+[I 09:02:47.909 NotebookApp] Saving file at /pandas_study/pandas_03_5.ipynb
+[I 09:04:47.917 NotebookApp] Saving file at /pandas_study/pandas_03_5.ipynb
+[I 09:06:47.907 NotebookApp] Saving file at /pandas_study/pandas_03_5.ipynb
+[I 09:08:47.932 NotebookApp] Saving file at /pandas_study/pandas_03_5.ipynb
+[I 09:12:47.915 NotebookApp] Saving file at /pandas_study/pandas_03_5.ipynb
+[I 09:14:47.921 NotebookApp] Saving file at /pandas_study/pandas_03_5.ipynb
+[I 09:16:47.925 NotebookApp] Saving file at /pandas_study/pandas_03_5.ipynb
+[I 09:18:47.936 NotebookApp] Saving file at /pandas_study/pandas_03_5.ipynb
+[I 09:19:48.128 NotebookApp] Saving file at /pandas_study/pandas_03_5.ipynb
+[I 09:26:47.967 NotebookApp] Saving file at /pandas_study/pandas_03_5.ipynb
+[I 09:26:52.345 NotebookApp] Saving file at /pandas_study/pandas_03_5.ipynb
+[I 09:26:56.367 NotebookApp] Starting buffering for b4887587-81b3-4768-b038-ef31a819bba7:f5a73cd3e8c54dee8c9e81f56f8c7bb5
+[I 09:27:03.101 NotebookApp] Starting buffering for a10fecc7-f19c-4661-850b-51a85b52b54a:edf7fbfaa8cb4db3bd024caca2a45d77
+[I 09:27:51.579 NotebookApp] Copying pandas_study/pandas_03_5.ipynb to /pandas_study
+[W 09:27:51.582 NotebookApp] Notebook pandas_study/pandas_03_5.ipynb is not trusted
+[I 09:27:57.588 NotebookApp] Kernel started: a801bb9b-d8a1-4484-a4c5-90feeefbf5fe, name: python3
+[W 09:28:07.182 NotebookApp] 409 PATCH /api/contents/pandas_study/pandas_03_5-Copy1.ipynb (61.35.16.194): File already exists: pandas_study/pandas_03_5.ipynb
+[W 09:28:07.182 NotebookApp] File already exists: pandas_study/pandas_03_5.ipynb
+[W 09:28:07.183 NotebookApp] 409 PATCH /api/contents/pandas_study/pandas_03_5-Copy1.ipynb (61.35.16.194) 1.590000ms referer=http://43.201.164.132:8888/notebooks/pandas_study/pandas_03_5-Copy1.ipynb
+[I 09:28:14.059 NotebookApp] Starting buffering for a801bb9b-d8a1-4484-a4c5-90feeefbf5fe:8a50539ada6c4582b546764b8eb02183
+[I 09:30:16.902 NotebookApp] Saving file at /pandas_study/pandas_03_6.ipynb
+[I 09:32:16.899 NotebookApp] Saving file at /pandas_study/pandas_03_6.ipynb
+[I 09:33:00.583 NotebookApp] Saving file at /pandas_study/pandas_03_6.ipynb
+[I 09:34:16.902 NotebookApp] Saving file at /pandas_study/pandas_03_6.ipynb
+[W 09:35:02.006 NotebookApp] delete /pandas_study/doit_pandas_data/scientists_names_series.pickle
+[I 09:36:16.900 NotebookApp] Saving file at /pandas_study/pandas_03_6.ipynb
+[I 09:38:16.920 NotebookApp] Saving file at /pandas_study/pandas_03_6.ipynb
+[I 10:00:54.160 NotebookApp] Saving file at /pandas_study/pandas_03_6.ipynb
+[I 10:00:59.212 NotebookApp] Saving file at /pandas_study/pandas_03_6.ipynb
+[I 10:00:59.846 NotebookApp] Starting buffering for a801bb9b-d8a1-4484-a4c5-90feeefbf5fe:9abd92bb025943d99742084660844bc5
+[W 10:03:55.225 NotebookApp] 404 GET /aaa9 (146.190.166.168) 1.390000ms referer=None
+[W 10:03:59.205 NotebookApp] 404 GET /aab8 (146.190.166.168) 1.310000ms referer=None
+[I 10:04:01.592 NotebookApp] 302 GET / (146.190.166.168) 0.510000ms
