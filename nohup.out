@@ -244,3 +244,46 @@ KeyboardInterrupt
 [I 01:43:59.391 NotebookApp] Saving file at /pandas_study/pandas_03_1.ipynb
 [I 01:45:59.408 NotebookApp] Saving file at /pandas_study/pandas_03_1.ipynb
 [I 01:47:14.799 NotebookApp] Saving file at /pandas_study/pandas_03_1.ipynb
+[I 01:54:44.766 NotebookApp] Saving file at /pandas_study/pandas_03_1.ipynb
+[I 01:54:45.746 NotebookApp] Starting buffering for b3615f32-12dc-4b6e-b964-f62c177b8825:e0831036223b4fdd850dd73e24091240
+[W 01:54:48.716 NotebookApp] Notebook pandas_study/pandas_03_1.ipynb is not trusted
+[W 01:54:53.799 NotebookApp] Notebook pandas_study/pandas_03_1.ipynb is not trusted
+[W 01:54:57.017 NotebookApp] Notebook pandas_study/pandas_03_1.ipynb is not trusted
+[I 01:56:39.222 NotebookApp] Saving file at /pandas_study/pandas_03_1.ipynb
+[I 01:56:39.966 NotebookApp] Saving file at /pandas_study/pandas_03_1.ipynb
+[I 01:56:41.174 NotebookApp] Starting buffering for b3615f32-12dc-4b6e-b964-f62c177b8825:d7d8459ba31a43eba9c1e997c42ca249
+[W 01:56:44.409 NotebookApp] Notebook pandas_study/pandas_02_4.ipynb is not trusted
+[I 01:56:44.561 NotebookApp] Kernel started: 555c6ac9-1d0e-4946-b147-625f173edd46, name: python3
+[I 01:57:16.389 NotebookApp] Saving file at /pandas_study/pandas_02_4.ipynb
+[W 01:57:16.389 NotebookApp] Notebook pandas_study/pandas_02_4.ipynb is not trusted
+[W 01:57:29.907 NotebookApp] Notebook pandas_study/pandas_02_4.ipynb is not trusted
+[W 01:57:31.874 NotebookApp] Notebook pandas_study/pandas_02_4.ipynb is not trusted
+[I 01:58:30.265 NotebookApp] Saving file at /pandas_study/pandas_02_4.ipynb
+[W 01:58:30.265 NotebookApp] Notebook pandas_study/pandas_02_4.ipynb is not trusted
+[I 01:58:34.666 NotebookApp] Starting buffering for 555c6ac9-1d0e-4946-b147-625f173edd46:8756ca53196e4606b061e5bf029edcda
+[I 01:58:36.901 NotebookApp] Kernel started: 435583f6-c41a-43dd-adc4-1fe710f451ac, name: python3
+[I 02:00:05.952 NotebookApp] Saving file at /pandas_study/pandas_02_3.ipynb
+[I 02:00:36.918 NotebookApp] Saving file at /pandas_study/pandas_02_3.ipynb
+[I 02:01:12.134 NotebookApp] Saving file at /pandas_study/pandas_02_3.ipynb
+[W 02:01:12.190 NotebookApp] Notebook pandas_study/pandas_02_3.ipynb is not trusted
+[W 02:01:18.913 NotebookApp] Notebook pandas_study/pandas_02_3.ipynb is not trusted
+[I 02:02:45.586 NotebookApp] Saving file at /pandas_study/pandas_03_1.ipynb
+[I 02:03:06.674 NotebookApp] Starting buffering for 435583f6-c41a-43dd-adc4-1fe710f451ac:77f8d6e52b924ccaa8c4f159728706e5
+[I 02:03:15.044 NotebookApp] Starting buffering for b3615f32-12dc-4b6e-b964-f62c177b8825:a8188827c2fc42858a0f5a2bf4cb6505
+[I 02:03:18.168 NotebookApp] Kernel started: d7046eed-c249-4dbb-a3bc-fb0181871b33, name: python3
+[W 02:03:31.805 NotebookApp] Notebook pandas_study/pandas_02_3.ipynb is not trusted
+[I 02:03:57.253 NotebookApp] Saving file at /pandas_study/pandas_02_2.ipynb
+[W 02:03:59.435 NotebookApp] Notebook pandas_study/pandas_02_2.ipynb is not trusted
+[W 02:04:01.567 NotebookApp] Notebook pandas_study/pandas_02_2.ipynb is not trusted
+[I 02:04:48.678 NotebookApp] Starting buffering for d7046eed-c249-4dbb-a3bc-fb0181871b33:8f092b85e86b4ee0895ae554576f66cd
+[I 02:04:50.735 NotebookApp] Saving file at /pandas_study/pandas_02_3.ipynb
+[I 02:05:11.354 NotebookApp] Starting buffering for 435583f6-c41a-43dd-adc4-1fe710f451ac:4113fdcba7734e098d710954550b6db3
+[I 02:05:14.822 NotebookApp] Kernel started: 25ff12b6-c641-41ca-8ad4-3072237f7b34, name: python3
+[W 02:05:28.942 NotebookApp] Notebook pandas_study/pandas_02_2.ipynb is not trusted
+[I 02:06:16.688 NotebookApp] Saving file at /pandas_study/pandas_02_1.ipynb
+[W 02:06:19.299 NotebookApp] Notebook pandas_study/pandas_02_1.ipynb is not trusted
+[W 02:06:23.455 NotebookApp] Notebook pandas_study/pandas_02_1.ipynb is not trusted
+[I 02:07:30.598 NotebookApp] Saving file at /pandas_study/pandas_02_2.ipynb
+[I 02:08:29.643 NotebookApp] Starting buffering for 25ff12b6-c641-41ca-8ad4-3072237f7b34:ae7c032f929c46efb64bec7bfd81322a
+[I 02:08:47.247 NotebookApp] Starting buffering for d7046eed-c249-4dbb-a3bc-fb0181871b33:7ff2a26fb323443281628ec5096148ab
+[I 02:10:21.922 NotebookApp] Starting buffering for b3615f32-12dc-4b6e-b964-f62c177b8825:95cb67ba55a44a078f24523b00b13cc4
