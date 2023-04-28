@@ -287,3 +287,8 @@ KeyboardInterrupt
 [I 02:08:29.643 NotebookApp] Starting buffering for 25ff12b6-c641-41ca-8ad4-3072237f7b34:ae7c032f929c46efb64bec7bfd81322a
 [I 02:08:47.247 NotebookApp] Starting buffering for d7046eed-c249-4dbb-a3bc-fb0181871b33:7ff2a26fb323443281628ec5096148ab
 [I 02:10:21.922 NotebookApp] Starting buffering for b3615f32-12dc-4b6e-b964-f62c177b8825:95cb67ba55a44a078f24523b00b13cc4
+[I 02:18:31.238 NotebookApp] Starting buffering for b3615f32-12dc-4b6e-b964-f62c177b8825:cdaa871373f94fa8be2fb629f44ad8d6
+[I 02:18:37.762 NotebookApp] Copying pandas_study/pandas_03_1.ipynb to /pandas_study
+[I 02:18:54.142 NotebookApp] Kernel started: 14a4853a-dbcf-4def-8751-709b7ab5c7bf, name: python3
+[I 02:20:40.316 NotebookApp] Saving file at /pandas_study/pandas_03_2.ipynb
+[I 02:20:42.399 NotebookApp] Starting buffering for 14a4853a-dbcf-4def-8751-709b7ab5c7bf:2705c243d0df41e68c492d630c1b9ff3
