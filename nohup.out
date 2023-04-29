@@ -765,3 +765,131 @@ KeyboardInterrupt
 [I 02:14:31.008 NotebookApp] Saving file at /pandas_study/pandas_04_1.ipynb
 [I 02:16:31.012 NotebookApp] Saving file at /pandas_study/pandas_04_1.ipynb
 [I 02:18:14.079 NotebookApp] Saving file at /pandas_study/pandas_04_1.ipynb
+[I 02:22:32.773 NotebookApp] Saving file at /pandas_study/pandas_04_1.ipynb
+[W 02:22:34.661 NotebookApp] Notebook pandas_study/pandas_04_1.ipynb is not trusted
+[W 02:22:36.581 NotebookApp] Notebook pandas_study/pandas_04_1.ipynb is not trusted
+[I 02:23:19.105 NotebookApp] Starting buffering for ca59d9c8-2b58-416d-b2d2-b2aabafe1b53:c8547e00f38a4878bd6fda926deebe51
+[I 03:25:34.377 NotebookApp] 302 GET / (184.105.247.224) 0.550000ms
+[I 03:26:05.932 NotebookApp] 302 GET / (184.105.247.224) 0.490000ms
+[I 03:26:06.076 NotebookApp] 302 GET /tree? (184.105.247.224) 0.660000ms
+[W 03:26:28.303 NotebookApp] 404 GET http://api.ipify.org/?format=json (184.105.247.196) 1.290000ms referer=None
+[W 03:26:51.164 NotebookApp] 405 CONNECT www.shadowserver.org:443 (184.105.247.248) 1.470000ms referer=None
+[I 04:38:43.699 NotebookApp] 302 GET / (205.210.31.159) 0.560000ms
+[I 04:38:44.281 NotebookApp] 302 GET /tree? (205.210.31.159) 0.610000ms
+[I 04:50:17.318 NotebookApp] 302 GET / (107.170.249.16) 0.520000ms
+[I 05:00:06.765 NotebookApp] 302 GET / (205.210.31.2) 0.580000ms
+[I 06:30:49.363 NotebookApp] 302 GET / (61.36.170.194) 0.470000ms
+[I 06:31:12.069 NotebookApp] Copying pandas_study/pandas_04_1.ipynb to /pandas_study
+[W 06:31:12.082 NotebookApp] Notebook pandas_study/pandas_04_1.ipynb is not trusted
+[W 06:31:12.084 NotebookApp] Notebook pandas_study/pandas_04_1-Copy1.ipynb is not trusted
+[W 06:31:27.826 NotebookApp] Notebook pandas_study/pandas_04_2.ipynb is not trusted
+[I 06:31:28.878 NotebookApp] Kernel started: 641ac547-a93b-46c2-bf32-ddf5e07e1603, name: python3
+[I 06:33:28.982 NotebookApp] Saving file at /pandas_study/pandas_04_2.ipynb
+[W 06:33:28.983 NotebookApp] Notebook pandas_study/pandas_04_2.ipynb is not trusted
+[I 06:35:29.014 NotebookApp] Saving file at /pandas_study/pandas_04_2.ipynb
+[W 06:35:29.014 NotebookApp] Notebook pandas_study/pandas_04_2.ipynb is not trusted
+[I 06:37:28.921 NotebookApp] Saving file at /pandas_study/pandas_04_2.ipynb
+[W 06:37:28.922 NotebookApp] Notebook pandas_study/pandas_04_2.ipynb is not trusted
+[I 06:39:28.957 NotebookApp] Saving file at /pandas_study/pandas_04_2.ipynb
+[W 06:39:28.958 NotebookApp] Notebook pandas_study/pandas_04_2.ipynb is not trusted
+[I 06:41:28.932 NotebookApp] Saving file at /pandas_study/pandas_04_2.ipynb
+[W 06:41:28.932 NotebookApp] Notebook pandas_study/pandas_04_2.ipynb is not trusted
+[I 06:43:28.981 NotebookApp] Saving file at /pandas_study/pandas_04_2.ipynb
+[W 06:43:28.981 NotebookApp] Notebook pandas_study/pandas_04_2.ipynb is not trusted
+[I 06:47:28.976 NotebookApp] Saving file at /pandas_study/pandas_04_2.ipynb
+[W 06:47:28.977 NotebookApp] Notebook pandas_study/pandas_04_2.ipynb is not trusted
+[I 06:49:28.981 NotebookApp] Saving file at /pandas_study/pandas_04_2.ipynb
+[W 06:49:28.982 NotebookApp] Notebook pandas_study/pandas_04_2.ipynb is not trusted
+[I 06:51:28.954 NotebookApp] Saving file at /pandas_study/pandas_04_2.ipynb
+[W 06:51:28.955 NotebookApp] Notebook pandas_study/pandas_04_2.ipynb is not trusted
+[I 06:53:28.970 NotebookApp] Saving file at /pandas_study/pandas_04_2.ipynb
+[W 06:53:28.971 NotebookApp] Notebook pandas_study/pandas_04_2.ipynb is not trusted
+[I 06:57:28.969 NotebookApp] Saving file at /pandas_study/pandas_04_2.ipynb
+[W 06:57:28.970 NotebookApp] Notebook pandas_study/pandas_04_2.ipynb is not trusted
+[I 08:07:29.187 NotebookApp] Saving file at /pandas_study/pandas_04_2.ipynb
+[W 08:07:29.188 NotebookApp] Notebook pandas_study/pandas_04_2.ipynb is not trusted
+[I 08:09:29.137 NotebookApp] Saving file at /pandas_study/pandas_04_2.ipynb
+[W 08:09:29.137 NotebookApp] Notebook pandas_study/pandas_04_2.ipynb is not trusted
+[I 08:11:29.166 NotebookApp] Saving file at /pandas_study/pandas_04_2.ipynb
+[W 08:11:29.167 NotebookApp] Notebook pandas_study/pandas_04_2.ipynb is not trusted
+[I 08:47:29.316 NotebookApp] Saving file at /pandas_study/pandas_04_2.ipynb
+[W 08:47:29.317 NotebookApp] Notebook pandas_study/pandas_04_2.ipynb is not trusted
+[I 08:51:29.274 NotebookApp] Saving file at /pandas_study/pandas_04_2.ipynb
+[W 08:51:29.275 NotebookApp] Notebook pandas_study/pandas_04_2.ipynb is not trusted
+[I 08:53:29.249 NotebookApp] Saving file at /pandas_study/pandas_04_2.ipynb
+[W 08:53:29.250 NotebookApp] Notebook pandas_study/pandas_04_2.ipynb is not trusted
+[I 08:55:29.266 NotebookApp] Saving file at /pandas_study/pandas_04_2.ipynb
+[W 08:55:29.267 NotebookApp] Notebook pandas_study/pandas_04_2.ipynb is not trusted
+[I 09:01:29.304 NotebookApp] Saving file at /pandas_study/pandas_04_2.ipynb
+[W 09:01:29.304 NotebookApp] Notebook pandas_study/pandas_04_2.ipynb is not trusted
+[IPKernelApp] WARNING | No such comm: 41a74aca3b7d4673b89f9b06efbe9a6e
+[IPKernelApp] WARNING | No such comm: 41a74aca3b7d4673b89f9b06efbe9a6e
+[IPKernelApp] WARNING | No such comm: 48e13fe657da48c7af22dd42ed312fac
+[IPKernelApp] WARNING | No such comm: 594e506c5fca4b1f97d0cd6321d3f513
+[I 09:03:29.312 NotebookApp] Saving file at /pandas_study/pandas_04_2.ipynb
+[W 09:03:29.313 NotebookApp] Notebook pandas_study/pandas_04_2.ipynb is not trusted
+[IPKernelApp] WARNING | No such comm: 41a74aca3b7d4673b89f9b06efbe9a6e
+[IPKernelApp] WARNING | No such comm: 48e13fe657da48c7af22dd42ed312fac
+[IPKernelApp] WARNING | No such comm: 594e506c5fca4b1f97d0cd6321d3f513
+[IPKernelApp] WARNING | No such comm: 2abfc47ccd49475092f76b0df116ff22
+[I 09:07:29.320 NotebookApp] Saving file at /pandas_study/pandas_04_2.ipynb
+[W 09:07:29.321 NotebookApp] Notebook pandas_study/pandas_04_2.ipynb is not trusted
+[I 09:09:29.310 NotebookApp] Saving file at /pandas_study/pandas_04_2.ipynb
+[W 09:09:29.311 NotebookApp] Notebook pandas_study/pandas_04_2.ipynb is not trusted
+[I 09:11:29.356 NotebookApp] Saving file at /pandas_study/pandas_04_2.ipynb
+[W 09:11:29.357 NotebookApp] Notebook pandas_study/pandas_04_2.ipynb is not trusted
+[IPKernelApp] WARNING | No such comm: f20da7fc2d394485ac186c62501ac4c8
+[I 09:13:29.290 NotebookApp] Saving file at /pandas_study/pandas_04_2.ipynb
+[W 09:13:29.291 NotebookApp] Notebook pandas_study/pandas_04_2.ipynb is not trusted
+[IPKernelApp] WARNING | No such comm: 41a74aca3b7d4673b89f9b06efbe9a6e
+[IPKernelApp] WARNING | No such comm: 48e13fe657da48c7af22dd42ed312fac
+[IPKernelApp] WARNING | No such comm: 594e506c5fca4b1f97d0cd6321d3f513
+[IPKernelApp] WARNING | No such comm: 2abfc47ccd49475092f76b0df116ff22
+[IPKernelApp] WARNING | No such comm: 7fa73f67d4424211a8269655edd31fe0
+[I 09:17:29.345 NotebookApp] Saving file at /pandas_study/pandas_04_2.ipynb
+[W 09:17:29.346 NotebookApp] Notebook pandas_study/pandas_04_2.ipynb is not trusted
+[IPKernelApp] WARNING | No such comm: 41a74aca3b7d4673b89f9b06efbe9a6e
+[IPKernelApp] WARNING | No such comm: 48e13fe657da48c7af22dd42ed312fac
+[IPKernelApp] WARNING | No such comm: 594e506c5fca4b1f97d0cd6321d3f513
+[IPKernelApp] WARNING | No such comm: 2abfc47ccd49475092f76b0df116ff22
+[IPKernelApp] WARNING | No such comm: 7fa73f67d4424211a8269655edd31fe0
+[IPKernelApp] WARNING | No such comm: 20abfad4ff174a02a01e1c026e6a7c1c
+[I 09:19:29.339 NotebookApp] Saving file at /pandas_study/pandas_04_2.ipynb
+[W 09:19:29.340 NotebookApp] Notebook pandas_study/pandas_04_2.ipynb is not trusted
+[IPKernelApp] WARNING | No such comm: f20da7fc2d394485ac186c62501ac4c8
+[IPKernelApp] WARNING | No such comm: a35312f32d7042faabdbb27648a540ef
+[I 09:21:29.363 NotebookApp] Saving file at /pandas_study/pandas_04_2.ipynb
+[W 09:21:29.364 NotebookApp] Notebook pandas_study/pandas_04_2.ipynb is not trusted
+[W 09:22:46.341 NotebookApp] Notebook pandas_study/pandas_04_2.ipynb is not trusted
+[I 09:23:30.422 NotebookApp] Saving file at /pandas_study/pandas_04_2.ipynb
+[W 09:23:30.422 NotebookApp] Notebook pandas_study/pandas_04_2.ipynb is not trusted
+[I 09:25:29.341 NotebookApp] Saving file at /pandas_study/pandas_04_2.ipynb
+[W 09:25:29.341 NotebookApp] Notebook pandas_study/pandas_04_2.ipynb is not trusted
+[I 09:27:29.340 NotebookApp] Saving file at /pandas_study/pandas_04_2.ipynb
+[W 09:27:29.340 NotebookApp] Notebook pandas_study/pandas_04_2.ipynb is not trusted
+[I 09:29:29.361 NotebookApp] Saving file at /pandas_study/pandas_04_2.ipynb
+[W 09:29:29.361 NotebookApp] Notebook pandas_study/pandas_04_2.ipynb is not trusted
+[I 09:47:29.452 NotebookApp] Saving file at /pandas_study/pandas_04_2.ipynb
+[W 09:47:29.453 NotebookApp] Notebook pandas_study/pandas_04_2.ipynb is not trusted
+[I 09:49:29.393 NotebookApp] Saving file at /pandas_study/pandas_04_2.ipynb
+[W 09:49:29.394 NotebookApp] Notebook pandas_study/pandas_04_2.ipynb is not trusted
+[I 09:55:29.456 NotebookApp] Saving file at /pandas_study/pandas_04_2.ipynb
+[W 09:55:29.457 NotebookApp] Notebook pandas_study/pandas_04_2.ipynb is not trusted
+[I 09:57:29.420 NotebookApp] Saving file at /pandas_study/pandas_04_2.ipynb
+[W 09:57:29.421 NotebookApp] Notebook pandas_study/pandas_04_2.ipynb is not trusted
+[I 09:57:56.078 NotebookApp] Saving file at /pandas_study/pandas_04_2.ipynb
+[I 09:57:57.789 NotebookApp] Starting buffering for 641ac547-a93b-46c2-bf32-ddf5e07e1603:470c5f52bb0248668656b252460571de
+[I 10:19:51.137 NotebookApp] Creating new notebook in /machine_leanring
+[I 10:19:53.442 NotebookApp] Kernel started: 69a37c67-7931-4330-8195-46c4e6b8ba69, name: python3
+[I 10:21:53.459 NotebookApp] Saving file at /machine_leanring/Logistic_regression.ipynb
+[I 10:23:53.503 NotebookApp] Saving file at /machine_leanring/Logistic_regression.ipynb
+[I 10:25:54.229 NotebookApp] Saving file at /machine_leanring/Logistic_regression.ipynb
+[I 10:27:53.488 NotebookApp] Saving file at /machine_leanring/Logistic_regression.ipynb
+[I 10:29:54.251 NotebookApp] Saving file at /machine_leanring/Logistic_regression.ipynb
+[W 10:31:14.871 NotebookApp] 404 GET /nbextensions/nbextensions_configurator/tree_tab/main.js?v=20230429004212 (61.36.170.194) 2.010000ms referer=http://43.201.164.132:8888/tree/machine_leanring
+[IPKernelApp] WARNING | Parent appears to have exited, shutting down.
+[IPKernelApp] WARNING | Parent appears to have exited, shutting down.
+[IPKernelApp] WARNING | Parent appears to have exited, shutting down.
+[IPKernelApp] WARNING | Parent appears to have exited, shutting down.
+[IPKernelApp] WARNING | Parent appears to have exited, shutting down.
+[IPKernelApp] WARNING | Parent appears to have exited, shutting down.
