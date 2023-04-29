@@ -514,3 +514,95 @@ KeyboardInterrupt
 [W 14:14:59.614 NotebookApp] Notebook pandas_study/pandas_03_6.ipynb is not trusted
 [W 14:15:01.771 NotebookApp] Notebook pandas_study/pandas_03_6.ipynb is not trusted
 [I 14:15:51.584 NotebookApp] Starting buffering for a801bb9b-d8a1-4484-a4c5-90feeefbf5fe:035833a34c3a4fc1920394f03b02b0f3
+[C 14:34:00.101 NotebookApp] received signal 15, stopping
+[I 14:34:00.102 NotebookApp] Shutting down 10 kernels
+[I 14:34:00.103 NotebookApp] Kernel shutdown: 14a4853a-dbcf-4def-8751-709b7ab5c7bf
+[I 14:34:00.160 NotebookApp] KernelRestarter: restarting kernel (1/5), keep random ports
+[I 14:34:00.217 NotebookApp] Kernel shutdown: b4887587-81b3-4768-b038-ef31a819bba7
+[I 14:34:00.231 NotebookApp] Kernel shutdown: a10fecc7-f19c-4661-850b-51a85b52b54a
+[I 14:34:00.245 NotebookApp] Kernel shutdown: 435583f6-c41a-43dd-adc4-1fe710f451ac
+[I 14:34:00.259 NotebookApp] Kernel shutdown: d7046eed-c249-4dbb-a3bc-fb0181871b33
+Traceback (most recent call last):
+  File "/home/ubuntu/anaconda3/lib/python3.9/runpy.py", line 197, in _run_module_as_main
+    return _run_code(code, main_globals, None,
+  File "/home/ubuntu/anaconda3/lib/python3.9/runpy.py", line 87, in _run_code
+    exec(code, run_globals)
+  File "/home/ubuntu/anaconda3/lib/python3.9/site-packages/ipykernel_launcher.py", line 15, in <module>
+    from ipykernel import kernelapp as app
+  File "/home/ubuntu/anaconda3/lib/python3.9/site-packages/ipykernel/__init__.py", line 5, in <module>
+    from .connect import *  # noqa
+  File "/home/ubuntu/anaconda3/lib/python3.9/site-packages/ipykernel/connect.py", line 11, in <module>
+    import jupyter_client
+  File "/home/ubuntu/anaconda3/lib/python3.9/site-packages/jupyter_client/__init__.py", line 8, in <module>
+    from .asynchronous import AsyncKernelClient  # noqa
+  File "/home/ubuntu/anaconda3/lib/python3.9/site-packages/jupyter_client/asynchronous/__init__.py", line 1, in <module>
+    from .client import AsyncKernelClient  # noqa
+  File "/home/ubuntu/anaconda3/lib/python3.9/site-packages/jupyter_client/asynchronous/client.py", line 6, in <module>
+    from jupyter_client.channels import HBChannel
+  File "/home/ubuntu/anaconda3/lib/python3.9/site-packages/jupyter_client/channels.py", line 4, in <module>
+    import asyncio
+  File "/home/ubuntu/anaconda3/lib/python3.9/asyncio/__init__.py", line 8, in <module>
+    from .base_events import *
+  File "/home/ubuntu/anaconda3/lib/python3.9/asyncio/base_events.py", line 23, in <module>
+    import socket
+  File "/home/ubuntu/anaconda3/lib/python3.9/socket.py", line 90, in <module>
+    IntFlag._convert_(
+  File "/home/ubuntu/anaconda3/lib/python3.9/enum.py", line 545, in _convert_
+    members = [
+  File "/home/ubuntu/anaconda3/lib/python3.9/enum.py", line 548, in <listcomp>
+    if filter(name)]
+KeyboardInterrupt
+[I 14:34:00.372 NotebookApp] Kernel shutdown: 25ff12b6-c641-41ca-8ad4-3072237f7b34
+[I 14:34:00.386 NotebookApp] Kernel shutdown: 0d751abd-10c3-4497-bd37-78360c7f9a7c
+[I 14:34:00.399 NotebookApp] Kernel shutdown: 555c6ac9-1d0e-4946-b147-625f173edd46
+[I 14:34:00.411 NotebookApp] Kernel shutdown: a801bb9b-d8a1-4484-a4c5-90feeefbf5fe
+[I 14:34:00.424 NotebookApp] Kernel shutdown: b3615f32-12dc-4b6e-b964-f62c177b8825
+[I 14:34:00.437 NotebookApp] Shutting down 0 terminals
+[W 2023-04-29 00:42:13.311 LabApp] 'allow_root' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2023-04-29 00:42:13.312 LabApp] 'ip' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2023-04-29 00:42:13.312 LabApp] 'notebook_dir' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2023-04-29 00:42:13.312 LabApp] 'password' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2023-04-29 00:42:13.312 LabApp] 'password' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[I 2023-04-29 00:42:13.321 LabApp] JupyterLab extension loaded from /home/ubuntu/anaconda3/lib/python3.9/site-packages/jupyterlab
+[I 2023-04-29 00:42:13.321 LabApp] JupyterLab application directory is /home/ubuntu/anaconda3/share/jupyter/lab
+[I 00:42:13.327 NotebookApp] Serving notebooks from local directory: /home/ubuntu
+[I 00:42:13.327 NotebookApp] Jupyter Notebook 6.4.12 is running at:
+[I 00:42:13.327 NotebookApp] http://ip-172-31-9-54:8888/
+[I 00:42:13.327 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 00:42:13.338 NotebookApp] No web browser found: could not locate runnable browser.
+[I 00:42:23.805 NotebookApp] 302 GET / (121.129.93.43) 0.920000ms
+[W 00:42:31.311 NotebookApp] Notebook hello.ipynb is not trusted
+[I 00:42:31.396 NotebookApp] Kernel started: 8c2674c7-eac5-4773-a7ca-69d5364ee6c7, name: python3
+[I 00:42:32.593 NotebookApp] Starting buffering for 8c2674c7-eac5-4773-a7ca-69d5364ee6c7:d2238263733d41b8bc1a59c24941d17b
+[I 00:42:51.974 NotebookApp] Kernel shutdown: 8c2674c7-eac5-4773-a7ca-69d5364ee6c7
+[W 00:42:51.975 NotebookApp] delete /hello.ipynb
+[I 00:44:16.635 NotebookApp] Copying pandas_study/pandas_03_6.ipynb to /pandas_study
+[W 00:44:16.640 NotebookApp] Notebook pandas_study/pandas_03_6.ipynb is not trusted
+[I 00:44:30.931 NotebookApp] Kernel started: ca59d9c8-2b58-416d-b2d2-b2aabafe1b53, name: python3
+[I 00:45:21.609 NotebookApp] Kernel started: 73056b28-25e5-4d2f-bde7-b3662e6097e2, name: python3
+[I 00:45:24.957 NotebookApp] Kernel started: 6132e897-96d5-4771-b68c-c7886cfb9466, name: python3
+[I 00:45:26.852 NotebookApp] Starting buffering for 6132e897-96d5-4771-b68c-c7886cfb9466:933e8b5e7cbe4fca871130593d1af5c1
+[I 00:45:27.134 NotebookApp] Starting buffering for 73056b28-25e5-4d2f-bde7-b3662e6097e2:e8376fc777be42abaacad3fe4ef72854
+[W 00:45:28.884 NotebookApp] Notebook pandas_study/pandas_02_1.ipynb is not trusted
+[I 00:45:29.347 NotebookApp] Kernel started: 8379f015-1757-40da-8192-96470b69f605, name: python3
+[I 00:45:35.492 NotebookApp] Starting buffering for 8379f015-1757-40da-8192-96470b69f605:8452b88c6b4b4f6f9ca9762d133bf679
+[I 00:46:30.932 NotebookApp] Saving file at /pandas_study/pandas_04_1.ipynb
+[I 00:48:30.928 NotebookApp] Saving file at /pandas_study/pandas_04_1.ipynb
+[I 00:50:30.935 NotebookApp] Saving file at /pandas_study/pandas_04_1.ipynb
+[I 00:52:30.924 NotebookApp] Saving file at /pandas_study/pandas_04_1.ipynb
+/home/ubuntu/anaconda3/lib/python3.9/site-packages/nbformat/__init__.py:128: MissingIDFieldWarning: Code cell is missing an id field, this will become a hard error in future nbformat versions. You may want to use `normalize()` on your notebooks before validations (available since nbformat 5.1.4). Previous versions of nbformat are fixing this issue transparently, and will stop doing so in the future.
+  validate(nb)
+/home/ubuntu/anaconda3/lib/python3.9/site-packages/notebook/services/contents/manager.py:353: MissingIDFieldWarning: Code cell is missing an id field, this will become a hard error in future nbformat versions. You may want to use `normalize()` on your notebooks before validations (available since nbformat 5.1.4). Previous versions of nbformat are fixing this issue transparently, and will stop doing so in the future.
+  validate_nb(model['content'])
+[I 00:54:43.939 NotebookApp] Saving file at /pandas_study/pandas_04_1.ipynb
+[I 01:06:05.844 NotebookApp] 302 GET / (103.80.134.239) 0.470000ms
+[I 01:06:06.135 NotebookApp] 302 GET / (103.80.134.225) 0.480000ms
+[I 01:06:06.143 NotebookApp] 302 GET /tree? (103.80.134.225) 0.630000ms
+[W 01:06:06.325 NotebookApp] 404 GET /status.asp (103.80.134.225) 7.190000ms referer=None
+[W 01:06:06.339 NotebookApp] 404 GET /status.asp (103.80.134.225) 0.960000ms referer=None
+[W 01:06:06.355 NotebookApp] 404 GET /status.asp (103.80.134.225) 0.920000ms referer=None
+[W 01:06:06.372 NotebookApp] 404 GET /w/home.asp (103.80.134.225) 0.920000ms referer=None
+[W 01:06:06.417 NotebookApp] 404 GET /index.htm (103.80.134.225) 1.040000ms referer=None
+[W 01:06:06.426 NotebookApp] 404 GET /index.htm (103.80.134.225) 0.910000ms referer=None
+[W 01:06:06.440 NotebookApp] 404 GET /frame.cmo (103.80.134.225) 0.880000ms referer=None
+[W 01:06:06.473 NotebookApp] 404 GET /title_bar.html (103.80.134.225) 1.380000ms referer=None
