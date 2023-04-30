@@ -913,3 +913,104 @@ KeyboardInterrupt
 [I 08:23:39.720 NotebookApp] Copying pandas_study/pandas_04_2.ipynb to /pandas_study
 [W 08:23:39.728 NotebookApp] Notebook pandas_study/pandas_04_2.ipynb is not trusted
 [W 08:23:39.729 NotebookApp] Notebook pandas_study/pandas_04_2-Copy1.ipynb is not trusted
+[W 08:25:48.772 NotebookApp] Notebook pandas_study/pandas_04_3.ipynb is not trusted
+[I 08:25:49.718 NotebookApp] Kernel started: 7a5a1e3c-25c4-46dd-9bf9-2a25cfb74f09, name: python3
+[I 08:27:49.808 NotebookApp] Saving file at /pandas_study/pandas_04_3.ipynb
+[W 08:27:49.808 NotebookApp] Notebook pandas_study/pandas_04_3.ipynb is not trusted
+[I 08:29:49.784 NotebookApp] Saving file at /pandas_study/pandas_04_3.ipynb
+[W 08:29:49.785 NotebookApp] Notebook pandas_study/pandas_04_3.ipynb is not trusted
+[I 08:31:49.847 NotebookApp] Saving file at /pandas_study/pandas_04_3.ipynb
+[W 08:31:49.848 NotebookApp] Notebook pandas_study/pandas_04_3.ipynb is not trusted
+[I 08:33:49.779 NotebookApp] Saving file at /pandas_study/pandas_04_3.ipynb
+[W 08:33:49.779 NotebookApp] Notebook pandas_study/pandas_04_3.ipynb is not trusted
+[I 08:35:49.801 NotebookApp] Saving file at /pandas_study/pandas_04_3.ipynb
+[W 08:35:49.801 NotebookApp] Notebook pandas_study/pandas_04_3.ipynb is not trusted
+[I 08:37:49.803 NotebookApp] Saving file at /pandas_study/pandas_04_3.ipynb
+[W 08:37:49.804 NotebookApp] Notebook pandas_study/pandas_04_3.ipynb is not trusted
+[I 08:39:49.777 NotebookApp] Saving file at /pandas_study/pandas_04_3.ipynb
+[W 08:39:49.777 NotebookApp] Notebook pandas_study/pandas_04_3.ipynb is not trusted
+[I 08:41:49.801 NotebookApp] Saving file at /pandas_study/pandas_04_3.ipynb
+[W 08:41:49.801 NotebookApp] Notebook pandas_study/pandas_04_3.ipynb is not trusted
+[I 08:43:49.803 NotebookApp] Saving file at /pandas_study/pandas_04_3.ipynb
+[W 08:43:49.803 NotebookApp] Notebook pandas_study/pandas_04_3.ipynb is not trusted
+[I 08:45:49.802 NotebookApp] Saving file at /pandas_study/pandas_04_3.ipynb
+[W 08:45:49.802 NotebookApp] Notebook pandas_study/pandas_04_3.ipynb is not trusted
+[I 08:47:49.791 NotebookApp] Saving file at /pandas_study/pandas_04_3.ipynb
+[W 08:47:49.792 NotebookApp] Notebook pandas_study/pandas_04_3.ipynb is not trusted
+[I 08:49:49.814 NotebookApp] Saving file at /pandas_study/pandas_04_3.ipynb
+[W 08:49:49.814 NotebookApp] Notebook pandas_study/pandas_04_3.ipynb is not trusted
+/home/ubuntu/anaconda3/lib/python3.9/site-packages/nbformat/__init__.py:128: MissingIDFieldWarning: Code cell is missing an id field, this will become a hard error in future nbformat versions. You may want to use `normalize()` on your notebooks before validations (available since nbformat 5.1.4). Previous versions of nbformat are fixing this issue transparently, and will stop doing so in the future.
+  validate(nb)
+/home/ubuntu/anaconda3/lib/python3.9/site-packages/notebook/services/contents/manager.py:353: MissingIDFieldWarning: Code cell is missing an id field, this will become a hard error in future nbformat versions. You may want to use `normalize()` on your notebooks before validations (available since nbformat 5.1.4). Previous versions of nbformat are fixing this issue transparently, and will stop doing so in the future.
+  validate_nb(model['content'])
+[I 08:51:49.823 NotebookApp] Saving file at /pandas_study/pandas_04_3.ipynb
+[W 08:51:49.823 NotebookApp] Notebook pandas_study/pandas_04_3.ipynb is not trusted
+[I 08:53:49.825 NotebookApp] Saving file at /pandas_study/pandas_04_3.ipynb
+[W 08:53:49.825 NotebookApp] Notebook pandas_study/pandas_04_3.ipynb is not trusted
+[I 08:55:49.875 NotebookApp] Saving file at /pandas_study/pandas_04_3.ipynb
+[W 08:55:49.875 NotebookApp] Notebook pandas_study/pandas_04_3.ipynb is not trusted
+[I 08:57:49.878 NotebookApp] Saving file at /pandas_study/pandas_04_3.ipynb
+[W 08:57:49.878 NotebookApp] Notebook pandas_study/pandas_04_3.ipynb is not trusted
+[W 09:01:51.316 NotebookApp] 405 CONNECT example.com:80 (185.224.128.17) 6.960000ms referer=None
+[I 09:11:49.892 NotebookApp] Saving file at /pandas_study/pandas_04_3.ipynb
+[W 09:11:49.893 NotebookApp] Notebook pandas_study/pandas_04_3.ipynb is not trusted
+[I 09:13:49.867 NotebookApp] Saving file at /pandas_study/pandas_04_3.ipynb
+[W 09:13:49.868 NotebookApp] Notebook pandas_study/pandas_04_3.ipynb is not trusted
+[I 09:15:49.885 NotebookApp] Saving file at /pandas_study/pandas_04_3.ipynb
+[I 09:17:49.875 NotebookApp] Saving file at /pandas_study/pandas_04_3.ipynb
+[I 09:19:49.868 NotebookApp] Saving file at /pandas_study/pandas_04_3.ipynb
+[I 09:21:49.877 NotebookApp] Saving file at /pandas_study/pandas_04_3.ipynb
+[I 09:23:49.893 NotebookApp] Saving file at /pandas_study/pandas_04_3.ipynb
+[I 09:25:49.960 NotebookApp] Saving file at /pandas_study/pandas_04_3.ipynb
+[I 09:31:49.957 NotebookApp] Saving file at /pandas_study/pandas_04_3.ipynb
+[I 09:33:49.958 NotebookApp] Saving file at /pandas_study/pandas_04_3.ipynb
+[I 09:35:49.940 NotebookApp] Saving file at /pandas_study/pandas_04_3.ipynb
+[I 09:37:49.924 NotebookApp] Saving file at /pandas_study/pandas_04_3.ipynb
+[I 09:39:49.947 NotebookApp] Saving file at /pandas_study/pandas_04_3.ipynb
+[I 09:41:49.968 NotebookApp] Saving file at /pandas_study/pandas_04_3.ipynb
+[I 09:43:49.940 NotebookApp] Saving file at /pandas_study/pandas_04_3.ipynb
+[I 09:45:49.952 NotebookApp] Saving file at /pandas_study/pandas_04_3.ipynb
+[I 09:55:49.997 NotebookApp] Saving file at /pandas_study/pandas_04_3.ipynb
+[I 09:59:50.011 NotebookApp] Saving file at /pandas_study/pandas_04_3.ipynb
+[I 10:01:50.067 NotebookApp] Saving file at /pandas_study/pandas_04_3.ipynb
+[I 10:03:50.085 NotebookApp] Saving file at /pandas_study/pandas_04_3.ipynb
+[I 10:05:50.006 NotebookApp] Saving file at /pandas_study/pandas_04_3.ipynb
+[I 10:07:50.032 NotebookApp] Saving file at /pandas_study/pandas_04_3.ipynb
+[I 10:10:06.514 NotebookApp] Saving file at /pandas_study/pandas_04_3.ipynb
+[I 10:11:50.016 NotebookApp] Saving file at /pandas_study/pandas_04_3.ipynb
+[I 10:17:50.081 NotebookApp] Saving file at /pandas_study/pandas_04_3.ipynb
+[W 10:19:21.729 NotebookApp] 404 GET /notebooks/pandas_study/image.png (61.36.170.194): file or directory does not exist: 'pandas_study/image.png'
+[W 10:19:21.732 NotebookApp] 404 GET /notebooks/pandas_study/image.png (61.36.170.194) 3.700000ms referer=http://43.201.164.132:8888/notebooks/pandas_study/pandas_04_3.ipynb
+[I 10:19:50.070 NotebookApp] Saving file at /pandas_study/pandas_04_3.ipynb
+[I 10:21:50.073 NotebookApp] Saving file at /pandas_study/pandas_04_3.ipynb
+[I 10:23:50.037 NotebookApp] Saving file at /pandas_study/pandas_04_3.ipynb
+[I 10:25:50.080 NotebookApp] Saving file at /pandas_study/pandas_04_3.ipynb
+[I 10:27:50.098 NotebookApp] Saving file at /pandas_study/pandas_04_3.ipynb
+[I 10:29:50.097 NotebookApp] Saving file at /pandas_study/pandas_04_3.ipynb
+[I 10:31:50.098 NotebookApp] Saving file at /pandas_study/pandas_04_3.ipynb
+[I 10:35:50.174 NotebookApp] Saving file at /pandas_study/pandas_04_3.ipynb
+[I 10:37:50.093 NotebookApp] Saving file at /pandas_study/pandas_04_3.ipynb
+[I 10:39:50.109 NotebookApp] Saving file at /pandas_study/pandas_04_3.ipynb
+[I 10:41:50.116 NotebookApp] Saving file at /pandas_study/pandas_04_3.ipynb
+[I 10:43:50.201 NotebookApp] Saving file at /pandas_study/pandas_04_3.ipynb
+[I 10:45:50.147 NotebookApp] Saving file at /pandas_study/pandas_04_3.ipynb
+[I 10:49:50.161 NotebookApp] Saving file at /pandas_study/pandas_04_3.ipynb
+[I 10:51:50.144 NotebookApp] Saving file at /pandas_study/pandas_04_3.ipynb
+[I 10:53:50.202 NotebookApp] Saving file at /pandas_study/pandas_04_3.ipynb
+[I 10:57:50.177 NotebookApp] Saving file at /pandas_study/pandas_04_3.ipynb
+[I 10:59:50.149 NotebookApp] Saving file at /pandas_study/pandas_04_3.ipynb
+[I 11:01:50.167 NotebookApp] Saving file at /pandas_study/pandas_04_3.ipynb
+[I 11:03:50.129 NotebookApp] Saving file at /pandas_study/pandas_04_3.ipynb
+[I 11:05:50.242 NotebookApp] Saving file at /pandas_study/pandas_04_3.ipynb
+[I 11:07:50.177 NotebookApp] Saving file at /pandas_study/pandas_04_3.ipynb
+[I 11:09:50.173 NotebookApp] Saving file at /pandas_study/pandas_04_3.ipynb
+[I 11:11:50.166 NotebookApp] Saving file at /pandas_study/pandas_04_3.ipynb
+[I 11:13:50.184 NotebookApp] Saving file at /pandas_study/pandas_04_3.ipynb
+[I 11:15:50.224 NotebookApp] Saving file at /pandas_study/pandas_04_3.ipynb
+[I 11:17:50.203 NotebookApp] Saving file at /pandas_study/pandas_04_3.ipynb
+[I 11:19:50.286 NotebookApp] Saving file at /pandas_study/pandas_04_3.ipynb
+[I 11:21:19.465 NotebookApp] Saving file at /pandas_study/pandas_04_3.ipynb
+[I 11:24:13.280 NotebookApp] Saving file at /pandas_study/pandas_04_3.ipynb
+[W 11:24:48.875 NotebookApp] Notebook pandas_study/pandas_04_3.ipynb is not trusted
+[W 11:24:50.700 NotebookApp] Notebook pandas_study/pandas_04_3.ipynb is not trusted
+[I 11:25:22.695 NotebookApp] Starting buffering for 7a5a1e3c-25c4-46dd-9bf9-2a25cfb74f09:bcdad3789c2746ed8cd5a446b7b936cc
