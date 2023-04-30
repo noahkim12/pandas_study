@@ -1014,3 +1014,9 @@ KeyboardInterrupt
 [W 11:24:48.875 NotebookApp] Notebook pandas_study/pandas_04_3.ipynb is not trusted
 [W 11:24:50.700 NotebookApp] Notebook pandas_study/pandas_04_3.ipynb is not trusted
 [I 11:25:22.695 NotebookApp] Starting buffering for 7a5a1e3c-25c4-46dd-9bf9-2a25cfb74f09:bcdad3789c2746ed8cd5a446b7b936cc
+[I 11:33:43.119 NotebookApp] Copying pandas_study/pandas_04_3.ipynb to /pandas_study
+[W 11:33:43.136 NotebookApp] Notebook pandas_study/pandas_04_3.ipynb is not trusted
+[W 11:33:43.140 NotebookApp] Notebook pandas_study/pandas_04_3-Copy1.ipynb is not trusted
+[I 11:33:52.382 NotebookApp] Copying pandas_study/pandas_04_3-Copy1.ipynb to /pandas_study
+[W 11:33:52.397 NotebookApp] Notebook pandas_study/pandas_04_3-Copy1.ipynb is not trusted
+[W 11:33:52.401 NotebookApp] Notebook pandas_study/pandas_04_3-Copy2.ipynb is not trusted
