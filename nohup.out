@@ -893,3 +893,23 @@ KeyboardInterrupt
 [IPKernelApp] WARNING | Parent appears to have exited, shutting down.
 [IPKernelApp] WARNING | Parent appears to have exited, shutting down.
 [IPKernelApp] WARNING | Parent appears to have exited, shutting down.
+[I 08:22:36.665 NotebookApp] [jupyter_nbextensions_configurator] enabled 0.6.1
+[W 2023-04-30 08:22:37.347 LabApp] 'allow_root' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2023-04-30 08:22:37.348 LabApp] 'ip' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2023-04-30 08:22:37.348 LabApp] 'notebook_dir' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2023-04-30 08:22:37.348 LabApp] 'password' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2023-04-30 08:22:37.348 LabApp] 'password' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[I 2023-04-30 08:22:37.357 LabApp] JupyterLab extension loaded from /home/ubuntu/anaconda3/lib/python3.9/site-packages/jupyterlab
+[I 2023-04-30 08:22:37.357 LabApp] JupyterLab application directory is /home/ubuntu/anaconda3/share/jupyter/lab
+[I 08:22:37.362 NotebookApp] Serving notebooks from local directory: /home/ubuntu
+[I 08:22:37.362 NotebookApp] Jupyter Notebook 6.4.12 is running at:
+[I 08:22:37.362 NotebookApp] http://ip-172-31-9-54:8888/
+[I 08:22:37.362 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 08:22:37.373 NotebookApp] No web browser found: could not locate runnable browser.
+[I 08:23:15.192 NotebookApp] 302 GET / (61.36.170.194) 1.020000ms
+[W 08:23:27.323 NotebookApp] Notebook pandas_study/pandas_04_2.ipynb is not trusted
+[I 08:23:28.140 NotebookApp] Kernel started: 4b839c56-dc85-4772-947c-620615072d05, name: python3
+[I 08:23:36.565 NotebookApp] Starting buffering for 4b839c56-dc85-4772-947c-620615072d05:55dff07bd527483a80b35fdb6884b93e
+[I 08:23:39.720 NotebookApp] Copying pandas_study/pandas_04_2.ipynb to /pandas_study
+[W 08:23:39.728 NotebookApp] Notebook pandas_study/pandas_04_2.ipynb is not trusted
+[W 08:23:39.729 NotebookApp] Notebook pandas_study/pandas_04_2-Copy1.ipynb is not trusted
