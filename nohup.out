@@ -1093,3 +1093,23 @@ KeyboardInterrupt
 [I 12:18:57.832 NotebookApp] Saving file at /pandas_study/pandas_04_5.ipynb
 [I 12:18:59.987 NotebookApp] Saving file at /pandas_study/pandas_04_5.ipynb
 [I 12:19:06.285 NotebookApp] Starting buffering for a84ccbd4-d759-4513-91da-cf0917e14745:90be294c29eb48a69f7a1b3673eabb22
+[I 12:22:58.700 NotebookApp] Starting buffering for ec8958bf-0c29-4bb6-be71-943dcba364bc:f6063c37dd6d43faab9dc43596ad6a0b
+[W 12:23:01.708 NotebookApp] Notebook pandas_study/pandas_04_5.ipynb is not trusted
+[W 12:23:24.731 NotebookApp] Notebook pandas_study/pandas_04_5.ipynb is not trusted
+[W 12:23:28.209 NotebookApp] Notebook pandas_study/pandas_04_5.ipynb is not trusted
+[I 12:23:54.210 NotebookApp] Starting buffering for a84ccbd4-d759-4513-91da-cf0917e14745:9cd79cc8c0d74f9ebc535156054667ef
+[W 12:24:11.435 NotebookApp] Notebook pandas_study/pandas_04_5.ipynb is not trusted
+[W 12:25:37.154 NotebookApp] Notebook pandas_study/pandas_04_5.ipynb is not trusted
+[I 12:28:12.789 NotebookApp] Saving file at /pandas_study/pandas_04_5.ipynb
+[W 12:28:12.789 NotebookApp] Notebook pandas_study/pandas_04_5.ipynb is not trusted
+[W 12:28:17.393 NotebookApp] Notebook pandas_study/pandas_04_5.ipynb is not trusted
+[W 12:28:20.878 NotebookApp] Notebook pandas_study/pandas_04_5.ipynb is not trusted
+[W 12:28:22.146 NotebookApp] Notebook pandas_study/pandas_04_5.ipynb is not trusted
+[I 12:29:12.329 NotebookApp] Starting buffering for a84ccbd4-d759-4513-91da-cf0917e14745:9da855e460364ba788e0484a3a61b263
+[C 12:33:40.955 NotebookApp] received signal 15, stopping
+[I 12:33:40.956 NotebookApp] Shutting down 4 kernels
+[I 12:33:40.957 NotebookApp] Kernel shutdown: ec8958bf-0c29-4bb6-be71-943dcba364bc
+[I 12:33:41.071 NotebookApp] Kernel shutdown: a84ccbd4-d759-4513-91da-cf0917e14745
+[I 12:33:41.084 NotebookApp] Kernel shutdown: 4b839c56-dc85-4772-947c-620615072d05
+[I 12:33:41.097 NotebookApp] Kernel shutdown: 7a5a1e3c-25c4-46dd-9bf9-2a25cfb74f09
+[I 12:33:41.111 NotebookApp] Shutting down 0 terminals
